@@ -1,5 +1,4 @@
 # MOVEX-website
-
 MOVEX
 MOVEX is a cutting-edge web platform that integrates AI art generation with blockchain technology. Utilizing ChatGPT for creating art through the Move programming language and Solidity smart contracts, MOVEX allows users to generate, mint, and manage unique NFTs with ease.
 
